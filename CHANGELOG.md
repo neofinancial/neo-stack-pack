@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.4]
+
+- Adding draw.io and preferred settings to README
+
 ## [0.0.3]
 
 - Adding Neo color and logo

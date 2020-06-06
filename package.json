@@ -3,7 +3,7 @@
   "publisher": "MaGoo",
   "displayName": "Neo Stack Pack",
   "description": "Extension pack used by Neo Financial Developers",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/MaxGoo/neo-stack-pack.git"
@@ -41,6 +41,7 @@
     "ms-azuretools.vscode-docker",
     "shardulm94.trailing-spaces",
     "streetsidesoftware.code-spell-checker",
-    "waderyan.gitblame"
+    "waderyan.gitblame",
+    "hediet.vscode-drawio"
   ]
 }
