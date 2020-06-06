@@ -1,0 +1,41 @@
+{
+  "name": "neo-stack-pack",
+  "publisher": "MaGoo",
+  "displayName": "neo-stack-pack",
+  "description": "Extension pack used by Neo Financial Developers",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MaxGoo/neo-stack-pack.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "2gua.rainbow-brackets",
+    "4ops.terraform",
+    "anseki.vscode-color",
+    "artdiniz.quitcontrol-vscode",
+    "bierner.markdown-preview-github-styles",
+    "codezombiech.gitignore",
+    "cssho.vscode-svgviewer",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    "GitHub.vscode-pull-request-github",
+    "Gruntfuggly.todo-tree",
+    "kisstkondoros.vscode-gutter-preview",
+    "kumar-harsh.graphql-for-vscode",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "shardulm94.trailing-spaces",
+    "streetsidesoftware.code-spell-checker",
+    "waderyan.gitblame"
+  ]
+}
