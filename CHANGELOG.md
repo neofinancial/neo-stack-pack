@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.5]
+
+- Use hashicorp terraform now that it's updated
+
 ## [0.0.4]
 
 - Adding draw.io and preferred settings to README

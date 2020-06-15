@@ -22,7 +22,7 @@
   ],
   "extensionPack": [
     "2gua.rainbow-brackets",
-    "4ops.terraform",
+    "hashicorp.terraform",
     "anseki.vscode-color",
     "artdiniz.quitcontrol-vscode",
     "bierner.markdown-preview-github-styles",
