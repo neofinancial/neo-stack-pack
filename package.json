@@ -3,7 +3,7 @@
   "publisher": "MaGoo",
   "displayName": "Neo Stack Pack",
   "description": "Extension pack used by Neo Financial Developers",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/MaxGoo/neo-stack-pack.git"
