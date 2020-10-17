@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.6]
+
+- Adding clipboard history, Indent Rainbow and
+
 ## [0.0.5]
 
 - Use hashicorp terraform now that it's updated

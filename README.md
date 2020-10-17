@@ -54,3 +54,6 @@ Some useful preferences to add to settings.json to make everyone's lives easier:
 - Todo Tree
 - Jest Runner
 - drawio
+- Clipboard History
+- Indent Rainbow
+- Sort Lines
