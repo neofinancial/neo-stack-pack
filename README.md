@@ -54,3 +54,15 @@ Some useful preferences to add to settings.json to make everyone's lives easier:
 - Todo Tree
 - Jest Runner
 - drawio
+- Clipboard History
+- Indent Rainbow
+- Sort Lines
+
+# Publishing
+
+Instructions for publishing an extension can be found on [code.visualstudio.com](https://code.visualstudio.com/api/working-with-extensions/publishing-extension)
+
+To publish a new version of this extension pack you must be a publisher and have a valid token (ensure that the created token is for "All accessible organizations"):
+
+1. run `vsce login <publisher_name>`
+1. run `vsce publish -p <token>`
