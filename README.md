@@ -30,6 +30,12 @@ Some useful preferences to add to settings.json to make everyone's lives easier:
 "editor.formatOnSave": true
 ```
 
+- Coloured bracket pairs are now built into VSCode
+
+```json
+"editor.bracketPairColorization.enabled": true
+```
+
 ## Included Extensions:
 
 - Apollo Graphql

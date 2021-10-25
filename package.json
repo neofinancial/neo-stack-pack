@@ -21,31 +21,31 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "hashicorp.terraform",
+    "anjali.clipboard-history",
     "anseki.vscode-color",
     "apollographql.vscode-apollo",
     "artdiniz.quitcontrol-vscode",
     "bierner.markdown-preview-github-styles",
+    "clover.md-table-editor",
     "codezombiech.gitignore",
     "cssho.vscode-svgviewer",
     "dbaeumer.vscode-eslint",
+    "derwat.indent-rainbow",
     "donjayamanne.githistory",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "firsttris.vscode-jest-runner",
     "GitHub.vscode-pull-request-github",
     "Gruntfuggly.todo-tree",
+    "hashicorp.terraform",
+    "hediet.vscode-drawio",
     "kisstkondoros.vscode-gutter-preview",
     "kumar-harsh.graphql-for-vscode",
     "mikestead.dotenv",
     "ms-azuretools.vscode-docker",
     "shardulm94.trailing-spaces",
     "streetsidesoftware.code-spell-checker",
-    "waderyan.gitblame",
-    "hediet.vscode-drawio",
-    "anjali.clipboard-history",
-    "derwat.indent-rainbow",
-    "clover.md-table-editor",
-    "Tyriar.sort-lines"
+    "Tyriar.sort-lines",
+    "waderyan.gitblame"
   ]
 }
