@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.0.7]
+
+- Adding Apollo GraphQL, Removing Rainbow Brackets
+
 ## [0.0.6]
 
 - Adding clipboard history, Indent Rainbow and

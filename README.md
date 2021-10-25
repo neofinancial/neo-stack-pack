@@ -57,6 +57,7 @@ Some useful preferences to add to settings.json to make everyone's lives easier:
 - Clipboard History
 - Indent Rainbow
 - Sort Lines
+- Apollo Graphql
 
 # Publishing
 
