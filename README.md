@@ -30,14 +30,22 @@ Some useful preferences to add to settings.json to make everyone's lives easier:
 "editor.formatOnSave": true
 ```
 
+- Coloured bracket pairs are now built into VSCode
+
+```json
+"editor.bracketPairColorization.enabled": true
+```
+
 ## Included Extensions:
 
-- Editorconfig
-- Trailing spaces
+- Apollo Graphql
+- Clipboard History
 - Code spell checker
 - Color picker
 - Docker
 - DotENV
+- drawio
+- Editorconfig
 - ESLint
 - Git Blame
 - Git History
@@ -46,17 +54,15 @@ Some useful preferences to add to settings.json to make everyone's lives easier:
 - gitignore
 - GraphQL for VSCode
 - Image preview
+- Indent Rainbow
+- Jest Runner
 - Prettier
 - Quit Control for VSCode
-- Rainbow Brackets
+- Sort Lines
 - SVG Viewer
 - Terraform
 - Todo Tree
-- Jest Runner
-- drawio
-- Clipboard History
-- Indent Rainbow
-- Sort Lines
+- Trailing spaces
 
 # Publishing
 
